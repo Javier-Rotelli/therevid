@@ -11,5 +11,11 @@
   "devDependencies": {
     "prettier": "3.6.1",
     "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "ml5": "^1.0.1",
+    "p5": "^2.0.3",
+    "patch-package": "^8.0.0",
+    "tone": "^15.1.22"
   }
 }
